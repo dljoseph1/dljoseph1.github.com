@@ -115,6 +115,8 @@ input, select, textarea {
 
 /* Type */
 
+
+
 	body, input, select, textarea {
 		color: #ffffff;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -157,6 +159,9 @@ input, select, textarea {
 		color: inherit;
 		text-decoration: none;
 	}
+	
+
+}
 
 		a:hover {
 			border-bottom-color: transparent;
@@ -3322,7 +3327,7 @@ input, select, textarea {
 				}
 
 				#header nav a {
-					padding: 0 0.5em;
+					padding: 0 0.3em;
 				}
 
 					#header nav a:last-child {
