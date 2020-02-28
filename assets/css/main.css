@@ -3125,14 +3125,14 @@ input, select, textarea {
 		font-weight: 600;
 		height: 3.25em;
 		left: 0;
-		letter-spacing: 0.25em;
+		letter-spacing: 0.2em;
 		line-height: 3.25em;
 		margin: 0;
 		position: fixed;
 		text-transform: uppercase;
 		top: 0;
 		width: 100%;
-		z-index: 10000;
+		z-index: 1000;
 	}
 
 		#header .logo {
@@ -3188,7 +3188,7 @@ input, select, textarea {
 				font-size: 0.8em;
 				height: inherit;
 				line-height: inherit;
-				padding: 0 0.75em;
+				padding: 0 0.5em;
 				position: relative;
 				vertical-align: middle;
 			}
